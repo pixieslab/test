@@ -19,7 +19,7 @@
     <body>
         <div id="site">
             <a id="logo" href="mailto:info@arregusto.it"><img src="images/arregusto.png"/></a>
-            <a id="instagram" href="https://www.instagram.com/arregusto/" target="_blank">Follow us on 2<img src="images/instagram.png"/></a>
+            <a id="instagram" href="https://www.instagram.com/arregusto/" target="_blank">Follow us on aaa<img src="images/instagram.png"/></a>
         </div>
     </body>
 </html>
